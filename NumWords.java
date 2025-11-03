@@ -4,7 +4,7 @@ public class NumWords {
     public static void main(String[] args) {
         // Step 1: Safely read the input number
         // If the grader gives it as a command-line argument, use that.
-        // Otherwise, read it from standard input (Scanner) so we never crash.
+        // Otherwise=, read it from standard input (Scanner) so we never crash.
         String inputStr;
         if (args.length >= 1) {
             inputStr = args[0];
