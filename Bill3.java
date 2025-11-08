@@ -23,4 +23,6 @@ public class Bill3 {
                            ": pay " + payEach + " Shekels each.");
     }
 }
+/* I like the way you name your variables, tells me exactly what it is. Very clean code:)
+*/
 
