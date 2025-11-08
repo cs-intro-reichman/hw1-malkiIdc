@@ -1,7 +1,7 @@
 public class PrintTo5 {
     public static void main(String[] args) {
         if (args.length != 1) {
-            System.out.println("Usage: java TimeFormat <hh:mm>");
+            System.out.println("Usage: java TimeFormat <hh:mm>"); //nice 
             return;
         }
 
@@ -17,3 +17,4 @@ public class PrintTo5 {
         System.out.println(hours + ":" + minuteStr + " " + period);
     }
 }
+/* very good */
