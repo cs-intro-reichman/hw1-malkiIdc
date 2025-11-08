@@ -22,3 +22,4 @@ public class FVCalc {
                            " saved at " + (rate * 100) + "% will yield $" + (int)futureValue);
     }
 }
+/* very clean and structured code. Liked the input validation too. nice job */
