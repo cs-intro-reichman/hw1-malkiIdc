@@ -46,3 +46,5 @@ public class TimeFormat {
         System.out.println(displayHours + ":" + minuteStr + " " + period);
     }
 }
+/* very good */
+
