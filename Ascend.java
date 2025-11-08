@@ -24,3 +24,5 @@ public class Ascend {
         System.out.println(min + " " + mid + " " + max);
     }
 }
+/* Nice */
+
